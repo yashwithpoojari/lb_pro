@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+    background-color: rgb(41, 37, 32);
+    color: azure;
+    padding: 2px;
+}
+img {
+    border: 2px solid black ;
+    border-radius: 22px;
+    margin-left: 500px;
+    margin-top: 50px;
+
+}
+table {
+    font-size: larger;
+    background-color: black;
+    color: bisque;
+    border-color: rgb(125, 220, 220);
+}
+footer{
+    text-align: center;
+    background-color: rgba(48, 31, 19, 0.975);
+    color: bisque;
+    padding: 2px;
+}
+h1{
+    text-align: center;
+}
